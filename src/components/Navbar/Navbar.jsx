@@ -4,14 +4,24 @@ import { getImageURL } from "../../utils";
 
 
 export const Navbar = () => {
+    const [menuOpen, setMenuOpen] = useState(false);
+
     return (
         <nav className={styles.navbar}>
             <a className={styles.title} href="/">
                 Portfolio
             </a>
             <div className={styles.menu}>
-                <img className={styles.menuBtn} src={getImageURL("navbar/menuBtnBlack.png")} alt="menu-button"/>
-                <ul className={styles.menuItems}>
+                <img className={styles.menuBtn} 
+                    src={
+                        menuOpen 
+                        ? getImageURL("navbar/menuBackBtnBlack.png") 
+                        : getImageURL("navbar/menuBtnBlack.png")
+                    } 
+                    alt="menu-button"
+                    onClick={() => setMenuOpen(!menuOpen)}
+                    />
+                <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`} onClick={() => setMenuOpen(false)}>
                     <li>
                         <a href="#about">About</a>
                     </li>
