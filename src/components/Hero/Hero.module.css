@@ -70,3 +70,13 @@
         transform: translate(0px, -0px);
     }
 }
+
+@media screen and (max-width: 830px) {
+    .container {
+        flex-direction: column-reverse;
+    }
+
+    .content {
+        align-items: center;
+    }
+}
