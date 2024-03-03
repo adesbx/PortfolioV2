@@ -1,58 +1,32 @@
 [
     {
-        "title": "Test",
+        "title": "Monstre de poche",
         "image": "projects/project.png",
-        "description": "Blablabla le truc machin long message ici ok sympa",
-        "skills": ["C++", "Git", "Docker"],
-        "source": "https://github.com/"
+        "description": "Première utilisation de JS, site pokédex",
+        "skills": ["Javascript"],
+        "source": "https://forge.univ-lyon1.fr/les-chasseurs/monstre-de-poche"
     },
     {
-        "title": "Test2323",
+        "title": "Echec a la Doua",
         "image": "projects/project.png",
-        "description": "Blablabla le truc machin long message ici ok sympa mais en plus on se chie dessus le gros caca haha",
-        "skills": ["Java"],
-        "source": "https://github.com/"
+        "description": "Jeux d'échec réalisé avec SDL2",
+        "skills": ["C++"]
     },
     {
-        "title": "Test",
+        "title": "Dijkstra",
         "image": "projects/project.png",
-        "description": "Blablabla le truc machin long message ici ok sympa",
-        "skills": ["C++", "Git", "Docker"],
-        "source": "https://github.com/"
+        "description": "Projet ayant pour but d'appliquer l'algorithme de Dijkstra",
+        "skills": ["C++"]
     },
     {
-        "title": "Test2323",
+        "title": "QssQss",
         "image": "projects/project.png",
-        "description": "Blablabla le truc machin long message ici ok sympa mais en plus on se chie dessus le gros caca haha",
-        "skills": ["Java"],
-        "source": "https://github.com/"
-    },
-    {
-        "title": "Test",
+        "description": "Site internet permetant a un utilisateur d'être recommandé sur des films",
+        "skills": ["Javascript", "Python"]
+    },{
+        "title": "Potager",
         "image": "projects/project.png",
-        "description": "Blablabla le truc machin long message ici ok sympa",
-        "skills": ["C++", "Git", "Docker"],
-        "source": "https://github.com/"
-    },
-    {
-        "title": "Test2323",
-        "image": "projects/project.png",
-        "description": "Blablabla le truc machin long message ici ok sympa mais en plus on se chie dessus le gros caca haha",
-        "skills": ["Java"],
-        "source": "https://github.com/"
-    },
-    {
-        "title": "Test",
-        "image": "projects/project.png",
-        "description": "Blablabla le truc machin long message ici ok sympa",
-        "skills": ["C++", "Git", "Docker"],
-        "source": "https://github.com/"
-    },
-    {
-        "title": "Test2323",
-        "image": "projects/project.png",
-        "description": "Blablabla le truc machin long message ici ok sympa mais en plus on se chie dessus le gros caca haha",
-        "skills": ["Java"],
-        "source": "https://github.com/"
+        "description": "Programme réalisé avec JavaFX, potager avec plusieurs éléments a planter, récolter. Système d'argent, de nuisibles et d'engrais",
+        "skills": ["Java"]
     }
 ]
