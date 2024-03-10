@@ -1,26 +1,26 @@
 [
     {
         "title": "Monstre de poche",
-        "image": "projects/project.png",
+        "image": "projects/monstreDePoche.png",
         "description": "Première utilisation de JS, site pokédex",
         "skills": ["Javascript"],
         "source": "https://forge.univ-lyon1.fr/les-chasseurs/monstre-de-poche"
     },
     {
         "title": "Echec a la Doua",
-        "image": "projects/project.png",
+        "image": "projects/chess.png",
         "description": "Jeux d'échec réalisé avec SDL2",
         "skills": ["C++"]
     },
     {
         "title": "Dijkstra",
-        "image": "projects/project.png",
+        "image": "projects/Dijkstra.png",
         "description": "Projet ayant pour but d'appliquer l'algorithme de Dijkstra",
         "skills": ["C++"]
     },
     {
         "title": "QssQss",
-        "image": "projects/project.png",
+        "image": "projects/Lifprojet.png",
         "description": "Site internet permetant a un utilisateur d'être recommandé sur des films",
         "skills": ["Javascript", "Python"]
     },{
@@ -30,9 +30,15 @@
         "skills": ["Java"]
     },{
         "title": "Détection de contour",
-        "image": "projects/project.png",
+        "image": "projects/contour.png",
         "description": "Programme visant à la détection des contours d'une image",
         "skills": ["Python", "OpenCV"]
+    },{
+        "title": "Mood tracker",
+        "image": "projects/MoodTracker.jpg",
+        "description": "Application mobile qui s'inspire des appli styles tracking de l'humeur quotidienne",
+        "skills": ["Flutter", "Dart"],
+        "source": "https://github.com/adesbx/MoodTracker/tree/dev"
     },{
         "title": "Eliza GPT",
         "image": "projects/project.png",
@@ -45,12 +51,12 @@
         "skills": ["Java", "Javascript", "Tomcat"]
     },{
         "title": "Synthèse d'image",
-        "image": "projects/project.png",
+        "image": "projects/shaderToy.png",
         "description": "Projet réalisé sous shadertoy: simulation de lumières, textures et formes géométriques",
         "skills": ["GLSL"]
     },{
-        "title": "Détection de contour",
-        "image": "projects/project.png",
+        "title": "Grow region",
+        "image": "projects/growRegion.png",
         "description": "Implémentation du système de growing région",
         "skills": ["C++", "OpenCV"]
     },{
