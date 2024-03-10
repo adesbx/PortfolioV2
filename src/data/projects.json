@@ -26,7 +26,37 @@
     },{
         "title": "Potager",
         "image": "projects/project.png",
-        "description": "Programme réalisé avec JavaFX, potager avec plusieurs éléments a planter, récolter. Système d'argent, de nuisibles et d'engrais",
+        "description": "Programme réalisé avec JavaFX: potager avec plusieurs éléments a planter, récolter. Système d'argent, de nuisibles et d'engrais",
         "skills": ["Java"]
+    },{
+        "title": "Détection de contour",
+        "image": "projects/project.png",
+        "description": "Programme visant à la détection des contours d'une image",
+        "skills": ["Python", "OpenCV"]
+    },{
+        "title": "Eliza GPT",
+        "image": "projects/project.png",
+        "description": "Bot conversationnel: requetage API, conjugaison de verbe, ...",
+        "skills": ["Java"]
+    },{
+        "title": "TodoList",
+        "image": "projects/project.png",
+        "description": "Projet de web: gestion de plusieurs utilisateurs et de plusieurs todos",
+        "skills": ["Java", "Javascript", "Tomcat"]
+    },{
+        "title": "Synthèse d'image",
+        "image": "projects/project.png",
+        "description": "Projet réalisé sous shadertoy: simulation de lumières, textures et formes géométriques",
+        "skills": ["GLSL"]
+    },{
+        "title": "Détection de contour",
+        "image": "projects/project.png",
+        "description": "Implémentation du système de growing région",
+        "skills": ["C++", "OpenCV"]
+    },{
+        "title": "Étude de comportements",
+        "image": "projects/project.png",
+        "description": "Étude de comportements à partir des données de la plateforme Asker",
+        "skills": ["Python", "Scikit-learn"]
     }
 ]
