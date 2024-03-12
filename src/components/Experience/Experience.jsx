@@ -8,7 +8,7 @@ export const Experience = () => {
         <section className={styles.container} id="experience">
             <h2 className={styles.title} >Experience</h2>
             <div className={styles.content}>
-                <h3 className={styles.contentTitle} >I use a lot</h3>
+                <h3 className={styles.contentTitle} >J'utilise beaucoup</h3>
                 <div className={styles.contentRow}>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
@@ -18,7 +18,7 @@ export const Experience = () => {
                 </div>
             </div>
             <div className={styles.content}>
-                <h3 className={styles.contentTitle} >I use</h3>
+                <h3 className={styles.contentTitle} >J'utilise</h3>
                 <div className={styles.contentRow}>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
@@ -26,7 +26,7 @@ export const Experience = () => {
                 </div>
             </div>
             <div className={styles.content}>
-                <h3 className={styles.contentTitle} >I already use</h3>
+                <h3 className={styles.contentTitle} >J'ai déjà utilisé</h3>
                 <div className={styles.contentRow}>   
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
