@@ -8,7 +8,7 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Enchanté, je suis Arthur</h1>
             <p className={styles.description}>
-                Je suis un étudiant en Master Informatique.
+                Je suis un étudiant en Master Informatique spécialisation Intelligence Artificielle.
                 Contactez-moi pour en savoir plus.
             </p>
             <a className={styles.contactBtn} href="mailto:arthurdbx93@gmail.com">Contactez-moi</a>
