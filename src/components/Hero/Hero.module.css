@@ -53,6 +53,8 @@
     width: 40%;
     z-index: 1;
 
+    border-radius: 25%;
+
     animation-name: floating;
     animation-duration: 3s;
     animation-iteration-count: infinite;
